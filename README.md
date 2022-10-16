@@ -22,6 +22,8 @@
 
 ## テーブル設計
 < --- 作成したテーブル設計の画像 ---- >
+![image](https://user-images.githubusercontent.com/111366647/196036997-b9da1315-03cf-4d3d-ab7b-baf4f1674a7d.png)
+
 
 ## ER図
 < --- 作成したER図の画像 ---- >
